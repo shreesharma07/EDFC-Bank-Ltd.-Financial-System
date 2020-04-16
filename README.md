@@ -7,4 +7,10 @@ It includes following diagrams:
 3.  Level 1 - Diagram
 4.  ER Diagram
 
+
+# Software Description
+This particular software is designed in such a way that it will ensure the privacy and security of whole system and its intended users.
+It uses cryptographic security and 2 Factor Authentication via receiving an OTP on customer's phone number.
+It is designed for making transactions faster and easy with ensured security and reliability. 
+
 # Concept & Design By ~ Shree Kumar Sharma & Team
