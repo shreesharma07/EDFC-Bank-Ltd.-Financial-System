@@ -19,11 +19,7 @@ It uses cryptographic security and 2 Factor Authentication via receiving an OTP 
 It is designed for making transactions faster and easy with ensured security and reliability. 
 
 # Concept & Design By ~
-1. [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/)
-2. [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/)
+## 1. [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/)
+## 2. [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/)
 
-
-<p align="center">
-  <a href="https://www.facebook.com/"><i class="fab fa-facebook fa-2x" id="fb"></i></a>
-</p>
 
