@@ -6,10 +6,10 @@
 
 This repository includes diagrams which helps to understand the whole software.
 It includes following diagrams:
-1.  Usecase Diagram
-2.  Level 0 - (Context) - Diagram
-3.  Level 1 - Diagram
-4.  ER Diagram
+1.  [Usecase Diagram](https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/Use%20Case%20Diagram%20-%20(EDFC%20Bank%20Ltd.).png)
+2.  [Level 0 - (Context) - Diagram](https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/Context%20Diagram.png)
+3.  [Level 1 - Diagram](https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/DFD%20Level%201%20-%20Diagram.png)
+4.  [ER Diagram](https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/ER%20Diagram%20-%20(EDFC%20Bank%20Ltd.).png)
 
 
 # Software Description
