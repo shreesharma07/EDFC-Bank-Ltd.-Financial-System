@@ -5,12 +5,13 @@
   <img src="https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/Images/edfc.png" alt="EDFC Logo">
 </p>
 
-## Software Description
+
+> Software Description
 This particular software is designed in such a way that it will ensure the privacy of whole system and for its intended users.
 It uses cryptographic security and 2 Factor Authentication via receiving an OTP on customer's phone number.
 It is designed for making transactions faster and easy with ensured security and reliability. 
 
-## About Repository
+> About Repository
 This repository includes diagrams which helps to understand the whole software.
 
 It includes following diagrams:
@@ -21,11 +22,12 @@ It includes following diagrams:
 
 
 # Concept & Design By ~
-> ## [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/) - NodeJs Developer @ PrepLadder
+
+## [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/) - NodeJs Developer @ PrepLadder
    - [Facebook](https://www.facebook.com/shree.kumarsharma.338)
    - [Instagram](https://www.instagram.com/shree_kumar_sharma/)
    - [Twitter](https://twitter.com/shree_kr_sharma)
-> ## [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/) - MCA Student & Python Programmer
+## [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/) - MCA Student & Python Programmer
    - [Facebook](https://www.facebook.com/kartik.rastogi.97)
    - [Instagram](https://www.instagram.com/rustagi_karthik/)
 
