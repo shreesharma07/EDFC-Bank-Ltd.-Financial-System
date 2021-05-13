@@ -20,6 +20,11 @@ It is designed for making transactions faster and easy with ensured security and
 
 # Concept & Design By ~
 ## 1. [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/)
+   > [Facebook](https://www.facebook.com/shree.kumarsharma.338)
+   > [Instagram](https://www.instagram.com/shree_kumar_sharma/)
+   > [Twitter](https://twitter.com/shree_kr_sharma)
 ## 2. [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/)
+   > [Facebook](https://www.facebook.com/kartik.rastogi.97)
+   > [Instagram](https://www.instagram.com/rustagi_karthik/)
 
 
