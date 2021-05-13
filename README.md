@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/Images/edfc.png" alt="EDFC Logo">
+</p>
+
 # EDFC Bank Ltd. - Financial System 
 
 This repository includes diagrams which helps to understand the whole software.
