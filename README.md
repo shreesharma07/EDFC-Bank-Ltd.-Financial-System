@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf">
 <p align="center">
   <img src="https://github.com/shreesharma07/EDFC-Bank-Ltd.-Financial-System/blob/master/Images/edfc.png" alt="EDFC Logo">
 </p>
@@ -23,7 +24,6 @@ It is designed for making transactions faster and easy with ensured security and
 
 
 <p align="center">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  <i class="fab fa-facebook fa-2x"></i>
+  <a href="https://www.facebook.com/"><i class="fab fa-facebook fa-2x" id="fb"></i></a>
 </p>
 
