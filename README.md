@@ -23,7 +23,7 @@ It includes following diagrams:
 
 # Concept & Design By ~
 
-## [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/) - NodeJs Developer @ PrepLadder
+## [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/) - Nodejs Developer @ PrepLadder
    - [Instagram](https://www.instagram.com/shree_kumar_sharma/)
    - [Twitter](https://twitter.com/shree_kr_sharma)
 ## [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/) - MCA Student & Python Developer
