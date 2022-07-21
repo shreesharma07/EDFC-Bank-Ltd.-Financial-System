@@ -27,6 +27,6 @@ It includes following diagrams:
 
 ## [Kartik Rastogi](https://www.linkedin.com/in/kartik-rastogi-16b825160/) - MCA Student & Python Developer
    - [Facebook](https://www.facebook.com/kartik.rastogi.97)
-   - [Instagram](https://www.instagram.com/rustagi_karthik/)
+   - [Instagram](https://www.instagram.com/_.kartikrastogi/)
 
 
